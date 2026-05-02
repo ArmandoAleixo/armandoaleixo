@@ -1,16 +1,18 @@
-## Hi there 👋
+💻 Full Stack Developer.
 
-<!--
-**ArmandoAleixo/armandoaleixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Gratuating Information Systems at Unifacisa (2024 - 2028).
 
-Here are some ideas to get you started:
+🌎 Languages: 🇧🇷 Português (nativo) | 🇺🇸 English (Advanced).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 Contact: 📩 [armando.aleixo9@gmail.com](mailto:armando.aleixo9@gmail.com)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mysql,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+
+
