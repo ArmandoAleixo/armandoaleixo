@@ -7,7 +7,7 @@
 📩 Contact: [armando.aleixo9@gmail.com](mailto:armando.aleixo9@gmail.com)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,html,css" />
 </p>
 
 
