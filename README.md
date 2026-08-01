@@ -1,8 +1,8 @@
-💻 Full Stack Developer.
+💻 Desenvolvedor Full Stack.
 
-🎓 Gratuating Information Systems at Unifacisa (2024 - 2028).
+🎓 Graduando em Sistemas de informação pela Unifacisa (2024 - 2028).
 
-🌎 Languages: 🇧🇷 Português (nativo) | 🇺🇸 English (Advanced).
+🌎 idiomas: 🇧🇷 Português (nativo) | 🇺🇸 Inglês (Avançado).
 
 📩 Contact: [armando.aleixo9@gmail.com](mailto:armando.aleixo9@gmail.com)
 
