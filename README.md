@@ -4,7 +4,7 @@
 
 🌎 idiomas: 🇧🇷 Português (nativo) | 🇺🇸 Inglês (Avançado).
 
-📩 Contact: [armando.aleixo9@gmail.com](mailto:armando.aleixo9@gmail.com)
+📩 Contato: [armando.aleixo9@gmail.com](mailto:armando.aleixo9@gmail.com)
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mysql,postgres,mongodb" />
